@@ -1,0 +1,31 @@
+﻿@model IEnumerable<_15DH110184_HoangVi.Models.SACH>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+
+<div class="row">
+@foreach (var sach in Model)
+{
+    <div class="thumbnail">
+        <div class="product" style="margin-left:10px;padding-left:10px;height:250px">
+            <a href="@Url.Action("Details", "BookStore", new {id = sach.Masach} )">
+                <img alt="@sach.Tensach" src="~/images/@sach.Hinhminhhoa" />
+            
+                    <h5 style="text-align:center">
+                        @sach.Tensach
+                    </h5>
+            
+            </a>
+        </div>
+     </div>
+}
+    <br />
+    </div>
+<br />
+<style>
+    .MenuTrang li {
+        display: inline;
+    }
+</style>

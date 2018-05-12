@@ -1,0 +1,17 @@
+ public ActionResult SanPhamTheoChuDe(int id)
+        {
+            var sach = from s in data.SACHes where s.MaCD == id select s;
+            return PartialView(sach);
+        }
+        public ActionResult SanPhamTheoNXB(int id)
+        {
+            var sach = from s in data.SACHes where s.MaCD == id select s;
+            return PartialView(sach);
+        }
+        public ActionResult Details(int id)
+        {
+            var sach = from s in data.SACHes
+                       where s.Masach == id
+                       select s;
+            return View(sach.Single());
+        }

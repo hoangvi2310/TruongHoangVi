@@ -1,0 +1,112 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/style.css" rel="stylesheet" />
+    <link href="~/Content/PagedList.css" rel="stylesheet" />
+    <script src="~/Scripts/functions.js"></script>
+    <script src="~/Scripts/jquery-1.6.2.min.js"></script>
+    <script src="~/Scripts/jquery.jcarousel.min.js"></script>
+    <script src="~/Scripts/png-fix.js"></script>
+    @*<link href="~/Content/main.css" rel="stylesheet" />*@
+
+    <title>@ViewBag.Title</title>
+</head>
+<body style="background-color:">
+    <div style="width : 100%;color:coral">
+    </div>
+    <h3 style="text-align:center">15DH110184-Trương Hoàng Vĩ</h3>
+    <div id="header" class="shell">
+        <div><h1>Hoàng Vĩ BookStore</h1>
+        <!-- Navigation -->
+        <div id="navigation" style="float:left ; width:1000px;">
+            <ul>
+                <li><a href="#" class="active">@Html.ActionLink("Home","Index","BookStore")</a></li>
+                
+            </ul>
+            <ul style="float:right">
+                <li>@Html.Action("GiohangPartial", "GioHang")</li>
+                @Html.ActionLink("Log out", "Logout", "NguoiDung")
+                @Html.Action("XinChao", "NguoiDung")
+            </ul>
+        </div>
+        <!-- End Navigation -->
+        <div class="cl">&nbsp;</div>
+        <!-- Login-details -->
+        <div id="login-details">
+          
+        </div>
+
+        <!-- End Login-details -->
+        <div style="width:100%">
+            <img src="~/images/BANNER-2.1.jpg"  style="width:998px"/>
+        </div>
+    </div>
+    <!-- End Header -->
+    <!-- Slider -->
+
+    <!-- End Slider -->
+    <!-- Main -->
+    <div id="main" class="shell" style="background-color:">
+        <!-- Sidebar -->
+        <div id="sidebar" style="border-right:1px 1px 1px solid ;width:250px;border-right:1px  solid">
+            <ul class="categories">
+                <li>
+                    <h4 style="color:red;text-align:center">Chủ Đề Sách</h4>
+                    <ul>
+                        @Html.Action("ChuDe", "BookStore")
+
+                    </ul>
+                </li>
+                <li>
+                    <h4 style="color:red;text-align:center">Nhà Xuất Bản</h4>
+                    <ul>
+                        @Html.Action("NhaXuatBan", "BookStore")
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <!-- End Sidebar -->
+        <!-- Content -->
+        <div id="content">
+            <!-- Products -->
+            <div class="products">
+                @RenderBody()
+            </div>
+
+            <div class="cl">&nbsp;</div>
+            <!-- Best-sellers -->
+            <div id="best-sellers">
+                <h3>Hoàng Vĩ BookStore</h3>
+            </div>
+            <!-- End Best-sellers -->
+        </div>
+        <!-- End Content -->
+        <div class="cl">&nbsp;</div>
+    </div>
+    <!-- End Main -->
+    <!-- Footer -->
+    <div id="footer" class="shell">
+        <div class="top">
+            <div class="cnt">
+                <div class="col about">
+                    <h4>About Hoàng Vĩ BookStore</h4>
+                    <p>Chuyên cung cấp những mặt hàng sách về học tập <br />Chào mừng các bạn đến với chúng tôi, các bạn sẽ được hài lòng với dịch vụ của chúng tôi </p>
+                </div>
+                <div class="col store">
+          
+                  
+                </div>
+                <div class="col" id="newsletter">
+                  
+                </div>
+                <div class="cl">&nbsp;</div>
+                <div class="copy">
+                    <p>&copy; <a href="#">hoangvi.somee.com</a>. Design by <a href="#">Trương Hoàng Vĩ</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

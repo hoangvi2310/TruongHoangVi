@@ -1,0 +1,10 @@
+﻿@model IEnumerable<_15DH110184_HoangVi.Models.CHUDE>
+           @foreach (var item in Model)
+           {
+               <a href="@Url.Action("SanPhamTheoChuDe","BookStore",new {  id = item.MaCD})" class="list-group-item">
+                   <li>
+                    @item.TenChuDe
+                   </li>
+               </a>
+            
+           }

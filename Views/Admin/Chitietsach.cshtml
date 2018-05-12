@@ -1,0 +1,90 @@
+﻿@model _15DH110184_HoangVi.Models.SACH
+
+@{
+    ViewBag.Title = "Chitietsach";
+    Layout = "~/Views/Shared/_LauoutAdmin.cshtml";
+}
+
+<h2>Chi Tiết Sách</h2>
+
+<div>
+
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+               Tên Sách:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tensach)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Donvitinh)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Donvitinh)
+        </dd>
+
+        <dt>
+            Giá bán:
+        </dt>
+
+        <dd>
+            @String.Format("{0:0,0}" , Model.Dongia) VND
+        </dd>
+
+        <dt>
+            Mô Tả:
+        </dt>
+
+        <dd style="width:600px;text-align:justify">
+            @Html.DisplayFor(model => model.Mota)
+        </dd>
+
+        <dt>
+            Hình Ảnh:
+        </dt>
+
+        <dd>
+            <img src="@Url.Content("~/images/"+Model.Hinhminhhoa)"width="120px" />
+        </dd>
+
+        <dt>
+            Chủ Đề:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CHUDE.TenChuDe)
+        </dd>
+
+        <dt>
+            Nhà Xuất Bản:
+        </dt>
+
+        <dd>
+            @Html.DisplayNameFor(model => model.NHAXUATBAN.TenNXB)
+        </dd>
+
+        <dt>
+          Ngày Cập Nhật :
+        </dt>
+
+        <dd>
+            @String.Format("{0:dd:MM:yyyy}",Model.Ngaycapnhat)
+        </dd>
+
+        <dt>
+            Số Lượng Tồn:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Soluongban)
+        </dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Sửa", "Suasach", new { id = Model.Masach }) |
+    @Html.ActionLink("Trở Về", "Sach")
+</p>

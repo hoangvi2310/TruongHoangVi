@@ -1,0 +1,125 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/style.css" rel="stylesheet" />
+    <link href="~/Content/PagedList.css" rel="stylesheet" />
+    <script src="~/Scripts/functions.js"></script>
+    <script src="~/Scripts/jquery-1.6.2.min.js"></script>
+    <script src="~/Scripts/jquery.jcarousel.min.js"></script>
+    <script src="~/Scripts/png-fix.js"></script>
+    @*<link href="~/Content/main.css" rel="stylesheet" />*@
+
+    <title>@ViewBag.Title</title>
+</head>
+<body style="background-color:cornsilk">
+    <div>
+
+    </div>
+    <h3 style="text-align:center">15DH110184-Trương Hoàng Vĩ</h3>
+    <div id="header" class="shell">
+        <div id="logo"><h1><a href="#">BestSeller</a></h1></div>
+        <!-- Navigation -->
+        <div id="navigation">
+            <ul>
+                <li><a href="#" class="active">Home</a></li>
+                <li><a href="#">Products</a></li>
+                <li><a href="#">Promotions</a></li>
+                <li><a href="#">Profile</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Contacts</a></li>
+                <li>@Html.Action("GiohangPartial", "GioHang")</li>
+                @Html.ActionLink("Log out", "Logout", "NguoiDung")
+                @Html.Action("XinChao", "NguoiDung")
+            </ul>
+        </div>
+        <!-- End Navigation -->
+        <div class="cl">&nbsp;</div>
+        <!-- Login-details -->
+        <div id="login-details">
+            <p>Welcome, <a href="#" id="user"></a></p><p><a href="#" class="cart"><img src="css/images/cart-icon.png" alt="" /></a>Shopping Cart (0) <a href="#" class="sum">$0.00</a></p>
+        </div>
+
+        <!-- End Login-details -->
+    </div>
+    <!-- End Header -->
+    <!-- Slider -->
+
+    <!-- End Slider -->
+    <!-- Main -->
+    <div id="main" class="shell" style="background-color:gainsboro">
+        <!-- Sidebar -->
+        <div id="sidebar">
+            <ul class="categories">
+                <li>
+                    <h4>Chủ Đề Sách</h4>
+                    <ul>
+                        @Html.Action("ChuDe", "BookStore")
+
+                    </ul>
+                </li>
+                <li>
+                    <h4>Nhà Xuất Bản</h4>
+                    <ul>
+                        @Html.Action("NhaXuatBan", "BookStore")
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <!-- End Sidebar -->
+        <!-- Content -->
+        <div id="content">
+            <!-- Products -->
+            <div class="products">
+                @RenderBody()
+            </div>
+
+            <div class="cl">&nbsp;</div>
+            <!-- Best-sellers -->
+            <div id="best-sellers">
+                <h3>Best Sellers</h3>
+            </div>
+            <!-- End Best-sellers -->
+        </div>
+        <!-- End Content -->
+        <div class="cl">&nbsp;</div>
+    </div>
+    <!-- End Main -->
+    <!-- Footer -->
+    <div id="footer" class="shell">
+        <div class="top">
+            <div class="cnt">
+                <div class="col about">
+                    <h4>About BestSellers</h4>
+                    <p>Nulla porttitor pretium mattis. Mauris lorem massa, ultricies non mattis bibendum, semper ut erat. Morbi vulputate placerat ligula. Fusce <br />convallis, nisl a pellentesque viverra, ipsum leo sodales sapien, vitae egestas dolor nisl eu tortor. Etiam ut elit vitae nisl tempor tincidunt. Nunc sed elementum est. Phasellus sodales viverra mauris nec dictum. Fusce a leo libero. Cras accumsan enim nec massa semper eu hendrerit nisl faucibus. Sed lectus ligula, consequat eget bibendum eu, consequat nec nisl. In sed consequat elit. Praesent nec iaculis sapien. <br />Curabitur gravida pretium tincidunt.  </p>
+                </div>
+                <div class="col store">
+                    <h4>Store</h4>
+                    <ul>
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">Special Offers</a></li>
+                        <li><a href="#">Log In</a></li>
+                        <li><a href="#">Account</a></li>
+                        <li><a href="#">Basket</a></li>
+                        <li><a href="#">Checkout</a></li>
+                    </ul>
+                </div>
+                <div class="col" id="newsletter">
+                    <h4>Newsletter</h4>
+                    <p>Lorem ipsum dolor sit amet  consectetur. </p>
+                    <form action="" method="post">
+                        <input type="text" class="field" value="Your Name" title="Your Name" />
+                        <input type="text" class="field" value="Email" title="Email" />
+                        <div class="form-buttons"><input type="submit" value="Submit" class="submit-btn" /></div>
+                    </form>
+                </div>
+                <div class="cl">&nbsp;</div>
+                <div class="copy">
+                    <p>&copy; <a href="#">BestSeller.com</a>. Design by <a href="http://css-free-templates.com/">CSS-FREE-TEMPLATES.COM</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

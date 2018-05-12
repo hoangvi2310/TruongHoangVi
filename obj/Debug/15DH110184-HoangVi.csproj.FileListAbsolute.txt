@@ -1,0 +1,298 @@
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\15DH110184-HoangVi.dll.config
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\15DH110184-HoangVi.dll
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\15DH110184-HoangVi.pdb
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\Antlr3.Runtime.dll
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\EntityFramework.dll
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\EntityFramework.SqlServer.dll
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.dll
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.dll
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Google.dll
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Web.Infrastructure.dll
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\Newtonsoft.Json.dll
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\Owin.dll
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Helpers.dll
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Mvc.dll
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Optimization.dll
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Razor.dll
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.WebPages.Deployment.dll
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.WebPages.dll
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.WebPages.Razor.dll
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\WebGrease.dll
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Helpers.xml
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Mvc.xml
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Optimization.xml
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Razor.xml
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.WebPages.xml
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.WebPages.Deployment.xml
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.WebPages.Razor.xml
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\Newtonsoft.Json.xml
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\Antlr3.Runtime.pdb
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\EntityFramework.xml
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\EntityFramework.SqlServer.xml
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.xml
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.xml
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Google.xml
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\obj\Debug\15DH110184-HoangVi.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\obj\Debug\15DH110184-HoangVi.dll
+c:\users\user\documents\visual studio 2013\Projects\15DH110184-HoangVi\15DH110184-HoangVi\obj\Debug\15DH110184-HoangVi.pdb
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\15DH110184-HoangVi.dll.config
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\15DH110184-HoangVi.dll
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\15DH110184-HoangVi.pdb
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Antlr3.Runtime.dll
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\EntityFramework.dll
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\EntityFramework.SqlServer.dll
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.dll
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Cookies.dll
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.dll
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Google.dll
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Twitter.dll
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Web.Infrastructure.dll
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Newtonsoft.Json.dll
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Owin.dll
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Helpers.dll
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Mvc.dll
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Optimization.dll
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Razor.dll
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.WebPages.Deployment.dll
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.WebPages.dll
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.WebPages.Razor.dll
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\WebGrease.dll
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Helpers.xml
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Mvc.xml
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Optimization.xml
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Razor.xml
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.WebPages.xml
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.WebPages.Deployment.xml
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.WebPages.Razor.xml
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Newtonsoft.Json.xml
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Antlr3.Runtime.pdb
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\EntityFramework.xml
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\EntityFramework.SqlServer.xml
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.xml
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.xml
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Google.xml
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Twitter.xml
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\obj\Debug\15DH110184-HoangVi.dll
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\obj\Debug\15DH110184-HoangVi.pdb
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\PagedList.dll
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\PagedList.Mvc.dll
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\PagedList.xml
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\PagedList.Mvc.xml
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\obj\Debug\15DH110184-HoangVi.csproj.CoreCompileInputs.cache
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\obj\Debug\15DH110184-HoangVi.csproj.CopyComplete
+D:\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\obj\Debug\15DH110184-HoangVi.csprojResolveAssemblyReference.cache
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\15DH110184-HoangVi.dll.config
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\15DH110184-HoangVi.dll
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\15DH110184-HoangVi.pdb
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Antlr3.Runtime.dll
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\EntityFramework.dll
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\EntityFramework.SqlServer.dll
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.dll
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Cookies.dll
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.dll
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Google.dll
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Twitter.dll
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Web.Infrastructure.dll
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Newtonsoft.Json.dll
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Owin.dll
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\PagedList.dll
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\PagedList.Mvc.dll
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Helpers.dll
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Mvc.dll
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Optimization.dll
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Razor.dll
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.WebPages.Deployment.dll
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.WebPages.dll
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.WebPages.Razor.dll
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\WebGrease.dll
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\PagedList.xml
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\PagedList.Mvc.xml
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Helpers.xml
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Mvc.xml
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Optimization.xml
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Razor.xml
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.WebPages.xml
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.WebPages.Deployment.xml
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.WebPages.Razor.xml
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Newtonsoft.Json.xml
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Antlr3.Runtime.pdb
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\EntityFramework.xml
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\EntityFramework.SqlServer.xml
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.xml
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.xml
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Google.xml
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Twitter.xml
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\obj\Debug\15DH110184-HoangVi.csprojResolveAssemblyReference.cache
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\obj\Debug\15DH110184-HoangVi.csproj.CoreCompileInputs.cache
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\obj\Debug\15DH110184-HoangVi.csproj.CopyComplete
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\obj\Debug\15DH110184-HoangVi.dll
+D:\CNPMNC MYDAN\CNPMNC HoangVI\15DH110184-HoangVi\15DH110184-HoangVi\obj\Debug\15DH110184-HoangVi.pdb
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\15DH110184-HoangVi.dll.config
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\15DH110184-HoangVi.dll
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\15DH110184-HoangVi.pdb
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Antlr3.Runtime.dll
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\EntityFramework.dll
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\EntityFramework.SqlServer.dll
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.dll
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.dll
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Google.dll
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Web.Infrastructure.dll
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Newtonsoft.Json.dll
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Owin.dll
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\PagedList.dll
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\PagedList.Mvc.dll
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Helpers.dll
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Mvc.dll
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Optimization.dll
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Razor.dll
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.WebPages.Deployment.dll
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.WebPages.dll
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.WebPages.Razor.dll
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\WebGrease.dll
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\PagedList.xml
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\PagedList.Mvc.xml
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Helpers.xml
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Mvc.xml
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Optimization.xml
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Razor.xml
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.WebPages.xml
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.WebPages.Deployment.xml
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.WebPages.Razor.xml
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Newtonsoft.Json.xml
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Antlr3.Runtime.pdb
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\EntityFramework.xml
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\EntityFramework.SqlServer.xml
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.xml
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.xml
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Google.xml
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\obj\Debug\15DH110184-HoangVi.csproj.CoreCompileInputs.cache
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\obj\Debug\15DH110184-HoangVi.csproj.CopyComplete
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\obj\Debug\15DH110184-HoangVi.dll
+D:\Backup\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\obj\Debug\15DH110184-HoangVi.pdb
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\15DH110184-HoangVi.dll.config
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\15DH110184-HoangVi.dll
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\15DH110184-HoangVi.pdb
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Antlr3.Runtime.dll
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\EntityFramework.dll
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\EntityFramework.SqlServer.dll
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.dll
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.dll
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Google.dll
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Web.Infrastructure.dll
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Newtonsoft.Json.dll
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Owin.dll
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\PagedList.dll
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\PagedList.Mvc.dll
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Helpers.dll
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Mvc.dll
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Optimization.dll
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Razor.dll
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.WebPages.Deployment.dll
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.WebPages.dll
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.WebPages.Razor.dll
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\WebGrease.dll
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\PagedList.xml
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\PagedList.Mvc.xml
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Helpers.xml
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Mvc.xml
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Optimization.xml
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.Razor.xml
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.WebPages.xml
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.WebPages.Deployment.xml
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\System.Web.WebPages.Razor.xml
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Newtonsoft.Json.xml
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Antlr3.Runtime.pdb
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\EntityFramework.xml
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\EntityFramework.SqlServer.xml
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.xml
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.xml
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Google.xml
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\obj\Debug\15DH110184-HoangVi.csproj.CoreCompileInputs.cache
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\obj\Debug\15DH110184-HoangVi.csproj.CopyComplete
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\obj\Debug\15DH110184-HoangVi.dll
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\obj\Debug\15DH110184-HoangVi.pdb
+D:\Công Nghệ Phần Mềm NC nè\15DH110184-HoangVi\15DH110184-HoangVi\15DH110184-HoangVi\obj\Debug\15DH110184-HoangVi.csprojResolveAssemblyReference.cache

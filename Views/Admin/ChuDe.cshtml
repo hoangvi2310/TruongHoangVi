@@ -1,0 +1,35 @@
+﻿@model IEnumerable<_15DH110184_HoangVi.Models.CHUDE>
+
+@{
+    ViewBag.Title = "ChuDe";
+    Layout = "~/Views/Shared/_LauoutAdmin.cshtml";
+}
+
+<h2>ChuDe</h2>
+
+<p>
+    @Html.ActionLink("Thêm Chủ Đề", "ThemChuDe")
+</p>
+<table id="table_1" class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TenChuDe)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenChuDe)
+            </td>
+            <td>
+                @Html.ActionLink("Xóa Chủ Đề", "XoaChuDe", new { id = item.MaCD })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
